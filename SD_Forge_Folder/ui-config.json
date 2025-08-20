@@ -8,7 +8,7 @@
         ""
     ],
     "txt2img/Sampling method/visible": true,
-    "txt2img/Sampling method/value": "Euler a",
+    "txt2img/Sampling method/value": "Euler",
     "txt2img/Sampling steps/visible": true,
     "txt2img/Sampling steps/value": 32,
     "txt2img/Sampling steps/minimum": 1,
